@@ -1,7 +1,7 @@
-# Autor Teste
+# Autor Jorge
 
-> **Email:** jorgedigitalcollege@outlook.com.com
+> **Email:** jorgedigitalcollege@outlook.com
 
-> **Telefone:** (85)     9 8818-5327
+> **Telefone:** (85) 9.8818-5327
 
-> **Github:** <https://github.comjeasdigitalcollege>
+> **Github:** <https://github.com/jeasdigitalcollege>
