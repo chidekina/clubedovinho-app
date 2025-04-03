@@ -1,4 +1,4 @@
-# Author Davi Sousa
+# Davi Sousa
 
 > **Email:** sousadavi248@email.com
 
