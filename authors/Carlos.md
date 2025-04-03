@@ -1,4 +1,4 @@
-# Autor Carlos
+# Autor Carlos Eduardo Cavalcante de Lima
 
 > **Email:** carlos2019cavalcante@gmail.com
 
