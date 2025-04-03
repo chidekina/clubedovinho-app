@@ -1,12 +1,30 @@
-# React + Vite
+# Clube do Vinho APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Como Instalar
+- **Passo 1:** Clonar o repositório
+No terminal, execute:
+```shell
+git clone https://github.com/alessandrofeitoza/clubedovinho-app.git
+```
 
-Currently, two official plugins are available:
+- **Passo 2:** Instalar o projeto e suas dependencias
+Ainda no terminal, entre dentro do diretorio do projeto:
+```shell
+cd clubedovinho-app
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+E agora, instale os pacotes, usando o NPM
+```shell
+npm install
+```
 
-## Expanding the ESLint configuration
+## Como Executar a aplicação
+- **Passo 1:** Subindo o Servidor
+No terminal, dentro do diretório do projeto, execute:
+```shell
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O terminal vai mostrar um endereço web que você poderá ser acessado via navegador, acesse-o e pronto!
+
+Provavelmente seja esse <http://localhost:5137>
