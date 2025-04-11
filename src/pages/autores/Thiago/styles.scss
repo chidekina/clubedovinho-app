@@ -1,0 +1,59 @@
+/* .botao{
+    margin-left: 60px;
+}
+
+svg:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.container{
+    margin-left: 25px;
+    
+    
+}
+.carousel{
+    margin-left: 25px;
+    margin-top: 15px;
+} */
+
+.pages-thiago{
+    a{text-decoration: none;}
+    .bolhas{
+        width: 110px;
+        height: 110px;
+        margin-left: 15px;
+        border-radius: 100px;
+        opacity: 25%;
+        background-image: linear-gradient(to bottom, #090126, #2E0E73);
+
+    }
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to right, #02000D, #090126, #2E0E73);
+    .row{height: 100vh;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .col{
+            justify-items: center;
+            h2{
+                color: #2E0E73;
+            }
+            h1{color: white;}
+            .spans{display: flex;
+                justify-content: space-between;
+                div{
+                background-color: #090126;
+                color: #2E0E73;
+                
+                border-radius: 15px;
+                padding: 7px;
+                font-size: 20px;
+                
+            }}
+            img{width: 40%;
+            border-radius: 200px;
+        border: 8px solid #2E0E73;}
+        }
+    }
+}
