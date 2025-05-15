@@ -1,0 +1,13 @@
+.data {
+    font-weight: ;
+}
+
+#input-data {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    & input {
+        width: 20%;
+    }
+}

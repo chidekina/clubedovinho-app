@@ -22,7 +22,6 @@ import Wuller from "./pages/autores/Wuller";
 import Johnatan from "./pages/autores/Johnatan";
 import Feitoza from "./pages/autores/Feitoza";
 import Ronney from "./pages/autores/Ronney";
-import Hideki from "./pages/autores/Hideki";
 
 export default function App() {
   return (
@@ -45,7 +44,7 @@ export default function App() {
         <Route path="/autores/wuller" element={<Wuller/>}/>
         <Route path="/autores/ronney" element={<Ronney/>}/>
         <Route path="/autores/feitoza" element={<Feitoza/>}/>
-        <Route path="/autores/hideki" element={<Hideki/>}/>
+        <Route path="/autores/"
 
         <Route path="/*" element={<h1>Erro 404: pagina nao encontrada</h1>} />
       </Routes>

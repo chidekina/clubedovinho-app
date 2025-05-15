@@ -1,0 +1,14 @@
+.data {
+    font-weight: 600;
+    color: blue;
+}
+
+#input-data {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    & input {
+        width: 20%;
+    }
+}

@@ -45,7 +45,7 @@ export default function App() {
         <Route path="/autores/wuller" element={<Wuller/>}/>
         <Route path="/autores/ronney" element={<Ronney/>}/>
         <Route path="/autores/feitoza" element={<Feitoza/>}/>
-        <Route path="/autores/hideki" element={<Hideki/>}/>
+        <Route path="/autores/hidekina" element{<Hideki}
 
         <Route path="/*" element={<h1>Erro 404: pagina nao encontrada</h1>} />
       </Routes>

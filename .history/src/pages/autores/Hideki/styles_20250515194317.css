@@ -1,0 +1,9 @@
+#input-data {
+    display: flex;
+    flex-direction: column;
+    gap: ;
+
+    & input {
+        width: 20%;
+    }
+}
